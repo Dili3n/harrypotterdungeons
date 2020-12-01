@@ -1,4 +1,6 @@
 # harrypotterdungeons
+PROJET 100% réalisé par Dilien Oeuvrard
+
 Follow the development of my Harry Potter dungeon !
 
 I am a young computer developer more particularly in python. I started this year and I want to share with you my first project. made with pygame.
