@@ -14,4 +14,5 @@ V1 = Terminal version
 
 V2 = Pygame version (many bugs with sleep() and pygame.time.wait())
 
-V1 and V2 are written in french.
+V3 = Refaite en partant de rien. Avec une base de fonction représetant 80% du programme. 
+Rajout de niveaux, du boss, de caractéristiques...
