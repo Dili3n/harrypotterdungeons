@@ -16,3 +16,9 @@ V2 = Pygame version (many bugs with sleep() and pygame.time.wait())
 
 V3 = Refaite en partant de rien. Avec une base de fonction représetant 80% du programme. 
 Rajout de niveaux, du boss, de caractéristiques...
+
+Version Finale : 
+Ajout d'un pierre / Feuille / ciseaux.
+patch de bugs.
+Ajouts de pets.
+Ajout d'un Easter Egg
